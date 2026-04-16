@@ -9,9 +9,9 @@ For any questions regarding the code or dataset, please contact: paola.diflorio@
 
 ## 📂 Repository Structure
 
-- `preprocessing.py`: Cleans raw biomechanical data and prepares files.
+- `preprocessing.ipynb`: Cleans raw biomechanical data and prepares files.
 - `utils.py`: Library containing core functions for biomechanical metrics and strategies clustering.
-- `main_analysis.py`: Main script to run the clustering model and generate results/figures.
+- `main_analysis.ipynb`: Main script to run the clustering model and generate results/figures.
 
 ## 📊 Dataset Access
 The full dataset is hosted on **Zenodo**.
