@@ -15,5 +15,5 @@ For any questions regarding the code or dataset, please contact: paola.diflorio@
 
 ## 📊 Dataset Access
 The full dataset is hosted on **Zenodo**.
-- **DOI:** [Inserisci qui il DOI che hai generato]
-- **Access:** [Se è sotto embargo, scrivi: "Access is currently restricted for peer-review. Please use the link provided in the manuscript cover letter."]
+- **DOI:** 
+- **Access:** Access is currently restricted for peer-review.
